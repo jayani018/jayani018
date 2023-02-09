@@ -1,5 +1,6 @@
 ### Hi there 👋
-GO TO IJSE Page [IJSE](https://www.ijse.lk/).
+GO TO IJSE Page [IJSE](https://www.ijse.lk/)
+VISIT [Google](https://www.google.lk/)
 <!--
 **jayani018/jayani018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
