@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
- ![Uploading Frame 9 (2)_result.png…]()
+![Frame 9 (2)_result](https://github.com/jayani018/jayani018/assets/121780104/809462a8-2266-479b-873a-b90a9ca5d122)
+
 
 
 
