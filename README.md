@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 | Title | Icon |
 | ------ | ------ |
 | IDE's |  <img src="https://skillicons.dev/icons?i=idea,androidstudio,vscode" /> |
-| App Development |  <img src="https://skillicons.dev/icons?i=dart,java" /> |
+| App Development |  <img src="https://skillicons.dev/icons?i=java" /> |
 | Front End | <img src="https://skillicons.dev/icons?i=html,bootstrap,css,tailwind,materialui,js,jquery,react,ts" /> |
 | Back End |  <img src="https://skillicons.dev/icons?i=hibernate,java,spring,nodejs,express,mysql,mongodb" /> |
 | UI Tools |  <img src="https://skillicons.dev/icons?i=figma,xd" /> |
