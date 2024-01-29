@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 | Front End | <img src="https://skillicons.dev/icons?i=html,bootstrap,css,tailwind,materialui,js,jquery,react,ts" /> |
 | Back End |  <img src="https://skillicons.dev/icons?i=hibernate,java,spring,nodejs,express,mysql,mongodb" /> |
 | UI Tools |  <img src="https://skillicons.dev/icons?i=figma,xd" /> |
-| Others |  <img src="https://skillicons.dev/icons?i=git,github,maven,postman,bash" /> |
+| Others |  <img src="https://skillicons.dev/icons?i=git,github,maven,postman" /> |
 | favourite |  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind,js,jquery,ts,express,nodejs" /> |
                                                                 
 </div>
